@@ -75,3 +75,10 @@ layout: default
 
 　　最后回到那个问题：Alfa还是Touch？我的建议是，如果你从机场进城，就在机场随便选一家；如果你已经在市区，那就看看你身边的人用什么卡信号好，然后“抄作业”。在黎巴嫩，保持联系很重要，但或许也没那么重要——放下手机，好好享受地中海的阳光和咖啡吧。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Lebanon eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/lebanon-data-plans)
